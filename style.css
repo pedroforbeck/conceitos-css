@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:blue
+}
+.destaque {
+    background-color: yellow;
+}
+.importante{
+    color: red;
+}
+input[type="password"] {
+    border: 2px solid blue;
+}
