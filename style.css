@@ -13,3 +13,22 @@ h1{
 input[type="password"] {
     border: 2px solid blue;
 }
+
+button:hover {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+.container > div > p {
+    color: purple; 
+}
+
+p::first-letter {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+li:first-child {
+    font-weight: bold;
+}
